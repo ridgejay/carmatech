@@ -1,72 +1,64 @@
-
-
-
 .jumbotron {
-    text-align: center;
-    margin: 0;
-    background-image: url('/assets/img/abt.jpg');
-    background-size: cover;
-    background-position: center;
-    color: white;
+  text-align: center;
+  margin: 0;
+  background-image: url("../assets/img/abt.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
 }
 
 .title {
-    font-weight: bolder;
+  font-weight: bolder;
 }
 
 .subTitle {
-    font-weight: bold;
-    color: lightskyblue;
+  font-weight: bold;
+  color: lightskyblue;
 }
 
 .vid {
-    text-align: center;
-    margin: auto;
-    border-right: 1px solid lightskyblue;
-    border-left: 1px solid lightskyblue;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
+  text-align: center;
+  margin: auto;
+  border-right: 1px solid lightskyblue;
+  border-left: 1px solid lightskyblue;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .left {
-    text-align: center;
-    margin: auto;
-    font-weight: bolder;
-    color: lightskyblue;
-    font-size: 40px;
-    letter-spacing: 35px;
-    border-bottom: 1px solid lightskyblue;
-    
+  text-align: center;
+  margin: auto;
+  font-weight: bolder;
+  color: lightskyblue;
+  font-size: 40px;
+  letter-spacing: 35px;
+  border-bottom: 1px solid lightskyblue;
 }
 
-
 .right {
-    text-align: center;
-    margin: auto;
-    font-weight: bolder;
-    color: lightskyblue;
-    font-size: 40px;
-    letter-spacing: 35px;
-    border-bottom: 1px solid lightskyblue;
-    
+  text-align: center;
+  margin: auto;
+  font-weight: bolder;
+  color: lightskyblue;
+  font-size: 40px;
+  letter-spacing: 35px;
+  border-bottom: 1px solid lightskyblue;
 }
 
 .abtDiv {
-    background-color: black;
+  background-color: black;
 }
 
 .listing {
-    background-color: black;
-    color: white;
-    text-align: center;
+  background-color: black;
+  color: white;
+  text-align: center;
 }
 
 ul {
-    height: 15.6vh;
-    margin: 0;
-    padding: 0;
+  height: 15.6vh;
+  margin: 0;
+  padding: 0;
 }
-

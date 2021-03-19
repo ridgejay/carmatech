@@ -42,7 +42,7 @@
 
 .jumbotron {
     text-align: center;
-    background-image: url('/assets/img/interior6.jpg');
+    background-image: url('../assets/img/interior6.jpg');
     background-size: cover;
     background-position: bottom;
     color: white;
@@ -77,7 +77,7 @@
 }
 
 .intOne {
-    background-image: url('/assets/img/main2.jpg');
+    background-image: url('../assets/img/main2.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -87,7 +87,7 @@
 }
 
 .intTwo {
-    background-image: url('/assets/img/main1.jpg');
+    background-image: url('../assets/img/main1.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -96,7 +96,7 @@
 }
 
 .intThree {
-    background-image: url('/assets/img/main3.jpg');
+    background-image: url('../assets/img/main3.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -113,7 +113,7 @@
 }
 
 .jum2 {
-    background-image: url('/assets/img/carside.jpg');
+    background-image: url('../assets/img/carside.jpg');
    
 }
 

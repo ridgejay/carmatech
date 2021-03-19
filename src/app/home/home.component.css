@@ -2,7 +2,7 @@
 
 
 .jumbo {
-    background: url('/assets/img/banner.jpeg');
+    background: url('../assets/img/banner.jpeg');
     width: 100vw;
     height: 47.4vh;
     background-size: cover;
@@ -25,7 +25,7 @@
 }
 
 .btn:hover{
-    background: url("/assets/img/banner.jpg");
+    background: url("../assets/img/banner.jpg");
     color: black;
     transition: 0.2s;
 }
@@ -71,7 +71,7 @@
 }
 
 .container-fluid {
-    background-image: url("/assets/img/lowerbackground.jpg");
+    background-image: url("../assets/img/lowerbackground.jpg");
     background-position: bottom;
 }
 
