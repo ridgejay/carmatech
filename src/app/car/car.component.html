@@ -1,0 +1,27 @@
+
+<button
+  class="btn btn-warning"
+  type="button"
+  name="button"
+  (click)="getCarInfoFromServ1()"
+  data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne"
+>
+  BMW Details
+</button> 
+<pre></pre>
+<div id="collapseOne">
+<ul class="list-group" *ngFor="let car of carInfo1Rec" id="collapseOne" >
+    <li class=""><img src="assets/img/bmw.jpg" alt="" width="150"></li>
+    <pre></pre>
+    <li class="list-group-item ">Model: {{ car.name }}</li>
+    <pre></pre>
+    <li class="list-group-item">Price: {{ car.price }}</li>
+    <pre></pre>
+    <li class="list-group-item">Year: {{ car.year }}</li>
+    <pre></pre>
+    <li class="list-group-item">Mileage: {{ car.mileage }}</li>
+    <li></li>
+</ul>
+</div>
+
+

@@ -1,0 +1,21 @@
+.navbar{
+    background-color: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: lightskyblue;
+}
+
+.navbar-brand{
+    color: lightskyblue;
+    font-weight: bolder;
+    
+}
+
+.navbar-toggler i{
+    color: lightskyblue;
+}

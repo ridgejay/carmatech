@@ -1,0 +1,142 @@
+
+
+.carousel-caption{
+    font-weight: bolder;
+}
+
+.about{
+    background-color: black;
+    color: lightskyblue;
+}
+
+.about:hover {
+    background: lightskyblue;
+    color: black;
+}
+
+.featured {
+    color: white;
+    background-color: black;
+}
+
+.carTitle {
+    color: lightskyblue;
+}
+
+.fa-slack{
+    color: lightskyblue;
+}
+
+.modal {
+    color: black;
+}
+
+.sendBtn {
+    background-color: black;
+}
+
+.sendBtn:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url('/assets/img/interior6.jpg');
+    background-size: cover;
+    background-position: bottom;
+    color: white;
+    margin: 0;
+    
+}
+
+.jumTitle {
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.fa-angle-double-down {
+    color: lightskyblue;
+    margin: 0;
+    bottom: 10px;
+    font-size: 30px;
+}
+
+.span {
+    background-color: black;
+    padding: 4px;
+    margin: 0;
+}
+
+.interior {
+    text-align: center;
+    color: white;
+}
+
+.intOne {
+    background-image: url('/assets/img/main2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    
+    
+}
+
+.intTwo {
+    background-image: url('/assets/img/main1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    
+}
+
+.intThree {
+    background-image: url('/assets/img/main3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+   
+}
+
+.gallery {
+    background-color: black;
+}
+
+.galleryDiv {
+    padding: 1;
+}
+
+.jum2 {
+    background-image: url('/assets/img/carside.jpg');
+   
+}
+
+.footTitle {
+    font-weight: bolder;
+}
+
+.social {
+
+    color: lightskyblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+.socialDiv {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+

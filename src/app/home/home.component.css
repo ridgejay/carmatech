@@ -1,0 +1,165 @@
+
+
+
+.jumbo {
+    background: url('/assets/img/banner.jpeg');
+    width: 100vw;
+    height: 47.4vh;
+    background-size: cover;
+    background-position: top;
+    margin: 0;
+}
+
+.jumbotron {
+    color: white;
+}
+
+#title {
+    font-weight: bold;
+    font-size: 38px;
+    color: lightskyblue;
+}
+
+.btn {
+  background-color: black;  
+}
+
+.btn:hover{
+    background: url("/assets/img/banner.jpg");
+    color: black;
+    transition: 0.2s;
+}
+
+.one{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-text {
+    color: black;
+    font-weight: normal;
+}
+
+.two{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.three{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-fluid {
+    background-image: url("/assets/img/lowerbackground.jpg");
+    background-position: bottom;
+}
+
+.line{
+    background-color: black;
+    padding: 5px;
+    margin: 0;
+}
+
+.slogan {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    top: 10px;
+}
+
+.tech {
+    text-align: center;
+    margin: auto;
+    font-weight: bolder;
+    font-size: 28px;
+    font-style: oblique;
+}
+
+.world {
+    text-align: center;
+    margin: auto;
+    font-weight: bolder;
+    font-size: 28px;
+    font-style: oblique;
+}
+
+@keyframes robot {
+ from {color: black;}
+ to {color: lightskyblue;}
+}
+
+.fa-robot, .fa-car-alt {
+    color: black;
+    animation-name: robot;
+    animation-duration: 5s; 
+}
+
+.hoverWords:hover {
+    font-size: 16px;
+    cursor: pointer;
+    color: lightskyblue;
+}
+
+.card:hover {
+    bottom: 10%;
+    opacity: 0.8
+}
+
+
+.modal {
+    color: black;
+}
+
+.modal-title {
+    color: lightskyblue;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.fa-wifi {
+    color: black;
+    font-size: 20px;
+}
+
+.fa-car {
+    color: black;
+    font-size: 20px;
+}
+
+.fa-blog {
+    color: black;
+    font-size: 20px;
+}
+
+.fa-ellipsis-h{
+    color: blue;
+}
+
+.fa-robot {
+    color: blue;
+}
+
+.fa-car-alt {
+    color: blue;
+}
